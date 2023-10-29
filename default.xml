@@ -2,11 +2,11 @@
 <manifest>
  
   <remote  name="origin"
-           fetch="https://github.com/Soultopia/Heimdallr.git" />
+           fetch="https://github.com/Soultopia/" />
   <default revision="master"
            remote="origin"
            sync-j="1" />
  
-  <project path="dir1/dir2" />
+  <project path="dir1/dir2" name="Heimdallr.git" />
  
 </manifest>
