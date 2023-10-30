@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote alias="heaven" name="origin" fetch="https://github.com" revision="master" />
+  <default revision="master" remote="origin" sync-j="1" />
+  <project name="Soultopia/Heimdallr" path="dir1/dir2" revision="main" />
+</manifest>
