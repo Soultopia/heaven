@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- 
-  <remote  name="origin"
-           fetch="https://github.com/Soultopia/" />
+  <remote name="origin"
+          fetch="https://github.com"
+          revision="master"/>
   <default revision="master"
            remote="origin"
            sync-j="1" />
- 
-  <project path="dir1/dir2" name="Heimdallr.git" />
- 
+  <project path="dir1/dir2" name="Soultopia/Heimdallr" />
 </manifest>
