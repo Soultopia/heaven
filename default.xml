@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="git@github.com:Soultopia" revision="master" />
+  <remote name="origin" fetch="git@github.com" revision="master" />
   <default revision="master" remote="origin" sync-j="1" />
-  <project name="Heimdallr" path="dir1/dir2" revision="master" />
+  <project name="Soultopia/Heimdallr" path="dir1/dir2" revision="master" />
 </manifest>
