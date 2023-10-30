@@ -2,5 +2,5 @@
 <manifest>
   <remote alias="heaven" name="origin" fetch="https://github.com" revision="master" />
   <default revision="master" remote="origin" sync-j="1" />
-  <project name="Soultopia/Heimdallr" path="dir1/dir2" revision="main" />
+  <project name="Soultopia/Heimdallr" path="prj/Soultopia/Heimdallr" revision="main" />
 </manifest>
