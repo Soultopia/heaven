@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote alias="heaven" name="origin" fetch="https://github.com" revision="master" />
-  <default revision="master" remote="origin" sync-j="1" />
+  <default revision="master" remote="origin" sync-j="2" />
   <project name="Soultopia/Heimdallr" path="prj/Heimdallr" revision="main" />
   <project name="Soultopia/Phoenician" path="prj/Phoenician" revision="main" />
 </manifest>
